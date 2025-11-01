@@ -25,7 +25,7 @@ This project supports **Green Mobility** by:
 **Vikas Gupta**  
 B.Tech CSE (AI & ML)  
 AICTE–Shell–Edunet Green Skills Internship (Automotive Domain)  
-📅 Duration: *27 Oct 2025 – 27 Nov 2025*
+Duration: *27 Oct 2025 – 27 Nov 2025*
 
 ---
 
